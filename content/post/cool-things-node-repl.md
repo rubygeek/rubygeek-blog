@@ -5,8 +5,6 @@ date: 2022-02-15T14:35:50-06:00
 draft: false
 ---
 
-Cut out summary from your post content here.
-
 Have you ever been in the node repl and typing away and wish that you could just save what you just did to a file?
 
 Today I learned you can! While in the repl, do the following:
