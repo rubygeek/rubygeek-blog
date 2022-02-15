@@ -1,0 +1,4 @@
+baseURL = 'http://www.rubygeek.com/'
+languageCode = 'en-us'
+title = 'Ruby etc'
+theme = 'hugo-nuo'
